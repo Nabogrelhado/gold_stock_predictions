@@ -9,12 +9,12 @@ This data set provides a comprehensive record of daily gold prices from January 
 ## Features
 The dataset consists of the following columns: 
 
--Date: A unique date for each trading day recorded.
--Close: The closing price of gold on the relevant date.
--Volume: Gold trading volume on the relevant date.
--Open: The opening price of gold on the relevant date.
--High: The highest recorded price of gold during the trading day.
--Low: The lowest price recorded for gold in the trading day.
+- Date: A unique date for each trading day recorded.
+- Close: The closing price of gold on the relevant date.
+- Volume: Gold trading volume on the relevant date.
+- Open: The opening price of gold on the relevant date.
+- High: The highest recorded price of gold during the trading day.
+- Low: The lowest price recorded for gold in the trading day.
 
 ## Methodology
 The Facebook Prophet library was used for this predictive analysis. The process involves data exploration, data visualization, model training, and e prediction.
